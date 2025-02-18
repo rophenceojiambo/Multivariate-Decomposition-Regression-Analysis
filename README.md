@@ -11,8 +11,8 @@ Decomposition partitions changes into endowment (shifts in characteristic distri
 
 ## Data
 
-- **Data source:** National Health and Nutrition Examination Survey [1].
-- **Inclusion Criteria:** Adults (>18 years) meeting American College of Cardiology hypertension criteria [2].
+- **Data source:** National Health and Nutrition Examination Survey.
+- **Inclusion Criteria:** Adults (>18 years) meeting American College of Cardiology hypertension criteria.
 - **Curated Dataset (CardioStats Package):** Demographics, blood pressure, hypertension status, Antihypertensive medications, Comorbidities.
 - **Additional Covariates:** healthcare utilization, health insurance, alcohol use, food security, poverty levels, depression, physical activity, and sleep disorder. 
 - **Analysis Scope:** Three waves of NHANES surveys: 2013-2014, 2015-2016, and 2017-2020.
