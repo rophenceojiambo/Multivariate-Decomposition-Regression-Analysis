@@ -48,7 +48,7 @@ Decomposition partitions changes into endowment (shifts in characteristic distri
 
 [Eteri Machavariani](https://github.com/uvarossa)
 
-**Affiliation:** Department of Biostatistics, New York University School of Global Public Health
+**Affiliation:** Department of Biostatistics, Department of Epidemiology, New York University School of Global Public Health
 -------------------------------------------------------------
 
 
